@@ -1,4 +1,4 @@
-any_list = ['2018-01-01', 'yandex', 'cpc', 100, 1, 2323232]
+any_list = ['2018-01-01', 'yandex', 'cpc', 100, 1, 23234444232]
 size_list = len(any_list)
 if size_list == 1:
     any_dict = {any_list[0]: None}
